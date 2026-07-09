@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a BAIS student studying at the University of Iowa
+I am a BAIS student who studied at the University of Iowa
 
 <!--
 **JetChanchom/JetChanchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
